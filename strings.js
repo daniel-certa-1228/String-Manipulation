@@ -26,6 +26,7 @@ submitBtn.addEventListener("click", (event) => {
 						   <p>Characters Alphabetical: "${textAlphabetical}"
 						   <p>Text Is A Palindrome: ${textPalindrome}`
 	}
+	
 });
 
 
